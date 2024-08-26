@@ -57,5 +57,27 @@ Método: DELETE
 # Testar a API
 Para testar a rota GET foi utilizado a ferramenta INSOMNIA
 
-. POST
+- POST
+
+![POST](prints/POST.png)
+
+- PATCH
+
+![PATCH](prints/PATCH.png)
+
+- DELETE
+
+![DELETE](prints/DELETE.png)
+
+- GET
+
+![GET](prints/GET.png)
+
+- GET BY ID
+
+![GET BY ID](prints/GET-Texto%20Específico.png)
+
+
+
+
 
